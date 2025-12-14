@@ -1,16 +1,100 @@
-# React + Vite
+⚡ AI Portfolio: Syam Chand Yannakula
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+"Building Intelligence from Data."
 
-Currently, two official plugins are available:
+A fully immersive, interactive portfolio website featuring a sentient AI companion ("Buddy"), 3D data visualizations, and a high-tech aesthetic. Built to demonstrate proficiency in Full Stack Development, AI Integration, and Creative UI Engineering.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 Live Demo: [Insert Your Vercel Link Here]
 
-## React Compiler
+🚀 Key Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🤖 "Buddy" - The AI Assistant
 
-## Expanding the ESLint configuration
+A fully interactive robot powered by the Google Gemini API.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Context Aware: Buddy knows my resume, skills, and projects inside out.
+
+Emotional Engine: Reacts to mouse movements, dragging, and inactivity with distinct emotional states (Happy, Suspicious, Dizzy, Sleep).
+
+Neural Interface: Double-click Buddy to open a terminal chat and ask him anything about my experience.
+
+🕵️‍♂️ "Resume Heist" Protocol
+
+Replaces the standard download button with a gamified "Data Extraction" sequence.
+
+Simulates firewall bypassing and decryption before delivering the PDF.
+
+🕸️ "Neural Link" Visualization
+
+Hovering over a skill in the marquee dynamically draws laser connections to the specific projects where that technology was used.
+
+🕹️ "God Mode"
+
+Enter the Konami Code (↑ ↑ ↓ ↓ ← → ← → B A) to trigger a system-wide "Red Alert" theme and unlock a classified secret project.
+
+🌊 Reactive UI
+
+Sonar Background: Clicking sends shockwaves through the background network topology.
+
+Particle Trail: A custom cursor trail that follows movement.
+
+Holographic Cards: 3D tilt effects with chromatic aberration on hover.
+
+🛠️ Tech Stack
+
+Frontend: React.js (Vite)
+
+Styling: Tailwind CSS + Custom CSS Animations
+
+AI Integration: Google Gemini Flash 1.5 API
+
+Icons: Lucide React
+
+Deployment: Vercel
+
+💻 Local Setup
+
+Clone the repository
+
+git clone [https://github.com/Syamchand123/cyberpunk-portfolio.git](https://github.com/Syamchand123/cyberpunk-portfolio.git)
+cd cyberpunk-portfolio
+
+
+Install Dependencies
+
+npm install
+
+
+Configure Environment Variables
+Create a .env file in the root directory and add your Gemini API Key:
+
+VITE_GEMINI_API_KEY=your_actual_google_api_key_here
+
+
+Add Resume File
+Ensure your resume PDF is named Syam_Chand_Resume.pdf and placed inside the public/ folder.
+
+Run the Development Server
+
+npm run dev
+
+
+📂 Project Structure
+
+/public
+  └── Syam_Chand_Resume.pdf  # The download target
+/src
+  ├── assets/                # Images/SVGs
+  ├── components/            # (If you break components out later)
+  ├── App.jsx                # Main Application Logic
+  ├── main.jsx               # Entry Point
+  └── index.css              # Tailwind Imports & Global Styles
+
+
+🛡️ License
+
+This project is open source and available under the MIT License.
+
+<div align="center">
+<sub>Built with 💻 and ☕ by Syam Chand Yannakula</sub>
+</div>
