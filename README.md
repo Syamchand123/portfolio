@@ -4,7 +4,7 @@
 
 A fully immersive, interactive portfolio website featuring a sentient AI companion ("Buddy"), 3D data visualizations, and a high-tech aesthetic. Built to demonstrate proficiency in Full Stack Development, AI Integration, and Creative UI Engineering.
 
-🔗 Live Demo: [Insert Your Vercel Link Here]
+🔗 Live Demo: [https://syamchandportfolio.vercel.app/]
 
 🚀 Key Features
 
